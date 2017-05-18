@@ -1,0 +1,34 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+				{
+					"label": "Compile C++",
+					"command": "cpp-compiler:compile"
+				},
+				{
+					"label": "Compile and Run C++",
+					"command": "cpp-compiler:compileAndRun"
+				}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "cpp-compiler",
+					"submenu": [
+						{
+							"label": "Compile C++",
+							"command": "cpp-compiler:compile"
+						},
+						{
+							"label": "Compile and Run C++",
+							"command": "cpp-compiler:compileAndRun"
+						}
+					]
+				}
+			]
+		}
+	]
+}

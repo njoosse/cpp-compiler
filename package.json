@@ -1,0 +1,14 @@
+{
+  "name": "cpp-compiler",
+  "main": "./lib/cpp-compiler",
+  "version": "0.2.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {},
+  "repository": "https://github.com/njoosse/cpp-compiler",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
