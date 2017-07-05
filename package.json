@@ -1,8 +1,8 @@
 {
   "name": "cpp-compiler",
   "main": "./lib/cpp-compiler",
-  "version": "0.1.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Compiles CPP files using a MinGW installation",
   "keywords": [],
   "activationCommands": {},
   "repository": "https://github.com/njoosse/cpp-compiler",
