@@ -1,0 +1,8 @@
+{
+    "includeStdLibs":
+    {
+        "description": "Inlcude Standard Libraries when compiling the EXE.",
+        "type": "boolean",
+        "default": true
+    }
+}
