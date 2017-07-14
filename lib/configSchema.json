@@ -1,7 +1,7 @@
 {
-    "includeStdLibs":
+    "StaticallyLinkStandardLibraries":
     {
-        "description": "Inlcude Standard Libraries when compiling the EXE.",
+        "description": "Inlcude -libgcc and -libstdc++ in compiled file.",
         "type": "boolean",
         "default": true
     }
