@@ -3,6 +3,6 @@
     {
         "description": "Inlcude -libgcc and -libstdc++ in compiled file.",
         "type": "boolean",
-        "default": true
+        "default": false
     }
 }
