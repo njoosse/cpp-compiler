@@ -4,5 +4,11 @@
         "description": "Inlcude -libgcc and -libstdc++ in compiled file.",
         "type": "boolean",
         "default": false
+    },
+    "ClearConsole":
+    {
+        "description": "Clear the console when compiling.",
+        "type": "boolean",
+        "default": true
     }
 }
