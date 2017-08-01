@@ -1,7 +1,7 @@
 {
   "name": "cpp-compiler",
   "main": "./lib/cpp-compiler",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Compiles CPP files using a MinGW installation",
   "keywords": [],
   "activationCommands": {},
