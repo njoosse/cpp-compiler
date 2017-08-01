@@ -6,11 +6,14 @@ For this package to work, make sure that the file is saved as a *.cpp
 
 This package will not save the file before attempting to compile it.
 
-Default Keybinds:
- - Compile (F5)
- - Compile and Run (F6)
-    
+### Default Keybinds:
+* Compile (F5)
+* Compile and Run (F6)
     note: This will not show the output if there is a compilation error
+
+### Settings:
+* Include Standard Libraries: compiles with standard C++ libraries, increases EXE file size. Defaults to FALSE.
+* Clear Console: this will clear the Atom console every time that either command is called. Defaults to TRUE.
 
 Any stdout and stderr are logged to the console for now, which can be opened with Ctrl+Shift+I (default) in Atom.
 
