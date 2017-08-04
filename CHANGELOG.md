@@ -24,5 +24,8 @@
 * Updated README
 
 ## 1.2.4
-* Updated CHANGELOG
+* Brought CHANGELOG up to the current version
 * Updated README
+
+## 1.2.5
+* Fixed error where 'Compile' would also try to run the executable file after compiling
