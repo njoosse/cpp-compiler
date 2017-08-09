@@ -1,14 +1,20 @@
 {
+    "ClearConsole":
+    {
+        "description": "Clear the console when compiling.",
+        "type": "boolean",
+        "default": true
+    },
     "StaticallyLinkStandardLibraries":
     {
         "description": "Inlcude -libgcc and -libstdc++ in compiled file.",
         "type": "boolean",
         "default": false
     },
-    "ClearConsole":
+    "SuppressWarnings":
     {
-        "description": "Clear the console when compiling.",
+        "description": "Stop MinGW from listing compilation warnings.",
         "type": "boolean",
-        "default": true
+        "default": false
     }
 }

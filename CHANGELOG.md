@@ -29,3 +29,7 @@
 
 ## 1.2.5
 * Fixed error where 'Compile' would also try to run the executable file after compiling
+
+## 1.2.6
+* Added option to Inhibit Warning messages during compilation from MinGW (off by default)
+* Re-arranged the configSchema JSON file alphabetically
